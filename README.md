@@ -8,7 +8,7 @@ What makes this game engine unique was I based it on what I had learned tinkerin
 
 # Why was this Abandoned?
 
-Before I answer why I abandoned this project, let's ask why I chose C# and XNA to build this project with. I had to quickly scramble to a new platform to replace the [Flash version](https://github.com/JohnnyLdeAlba/agartha-flash) of this project that I had designed a few months prior. Unfortunartly, once again, I didn't do my research as Microsoft was discontinuing support for XNA, which forced me to abandon building a game engine altogether. 
+Before I answer why I abandoned this project, let's ask why I chose C# and XNA to build this project with. I had to quickly scramble to a new platform to replace the [Flash version](https://github.com/JohnnyLdeAlba/agartha-flash) of this project that I had designed a few months prior. Unfortunartly (once again) I didn't do my research as Microsoft was discontinuing support for XNA, which forced me to abandon building a game engine altogether. 
 
 # Known Issues
 
