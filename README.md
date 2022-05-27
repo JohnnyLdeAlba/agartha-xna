@@ -20,4 +20,4 @@ Before I answer why I abandoned this project, let's ask why I chose C# and XNA t
 
 All the scripts and assests are here, the only thing missing are the project files which link the two together. All the assests will need to be reaadded to a new project file and properly assigned to the labels used by the scripts.
 
-# [Watch Preview On YouTube](https://www.youtube.com/watch?v=vGH4h8ZZ8ZE)
+# [Watch Preview on YouTube](https://www.youtube.com/watch?v=vGH4h8ZZ8ZE)
