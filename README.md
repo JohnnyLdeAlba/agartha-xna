@@ -10,7 +10,7 @@ What makes this game engine unique was I based it on what I had learned tinkerin
 
 - A tile engine based on the NES PPU (Picture Processing Unit).
 - An action and reaction system used to pass messages between the player and objects.
-- The Dolphin (controlled by the player) can now jump out of the water and charge into enemies.
+- The Dolphin can now jump out of the water and charge into enemies.
 - A primitive physics engine.
 
 # Why was this Abandoned?
